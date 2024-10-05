@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fuhavejacibi.pages.dev/sitemap.xml
